@@ -1,5 +1,5 @@
-const CLIENT_ID = 'YOUR_CLIENT_ID_HERE';
-const REDIRECT_URI = 'https://yourdomain.com/callback'; // Must be HTTPS!
+const CLIENT_ID = 'b81c711233ea407cbb20c36f1f69d64a';
+const REDIRECT_URI = 'https://stbmidnight.github.io/Spot/'; // Must be HTTPS!
 const SCOPES = 'playlist-modify-public user-top-read';
 
 const loginBtn = document.getElementById('login-btn');
